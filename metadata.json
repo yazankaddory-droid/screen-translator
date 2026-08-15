@@ -1,0 +1,6 @@
+{
+  "name": "Screen Translator",
+  "description": "Instant screen translation app with live floating translation, region OCR, and target language history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
